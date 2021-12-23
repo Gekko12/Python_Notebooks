@@ -4,12 +4,12 @@ This jupyter notebooks contains solution for various LeetCode problems (_https:/
 <hr>
 
 **Topics covered from Explore cards:** <br>
-- [ ] Strings and Arrays <br>
-- [ ] Linked List <br>
-- [ ] Arrays 101 <br>
+- [ ] Strings and Arrays
+- [ ] Linked List
+- [ ] Arrays 101 
 - [ ] Stacks & Queues
 
 **Additional notebooks:** <br>
 - [ ] Tips and Tricks for Python
 - [ ] Jupyter notebook formatting syntax
-- [ ] Challenging questions (for me toughness rating: 3/5)
+- [ ] Algorithms and Methodology (contains algo)
