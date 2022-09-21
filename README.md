@@ -1,6 +1,6 @@
 # Python_Notebooks
 
-This jupyter notebooks contains solution for various LeetCode problems (_https://leetcode.com/GekkoCode/_) <br>
+This jupyter notebooks contains solution for various LeetCode problems (_https://leetcode.com/GekkoCode/_) and best DSA practices.<br>
 <hr>
 
 **Topics covered from Explore cards:** <br>
