@@ -13,13 +13,17 @@ This jupyter notebooks contains solution for various LeetCode problems (_https:/
 - [ ] Tips and Tricks for Python
     + Iterators
     + Generators
+    + Coroutine
     + Decorators
         * Closure
     + Descriptors
-    + from functools import lru_cache (memoize)
+    + Class and static methods
+    + Abstract Base Classes
+    + Context Managers
     + Inheritance
     + Abstraction
     + operator module
+    + from functools import lru_cache (memoize)
 - [ ] Jupyter notebook formatting syntax
 - [ ] Algorithms and Methodology (contains algo)
 - [ ] File Operations in Python
