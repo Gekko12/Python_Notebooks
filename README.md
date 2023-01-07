@@ -28,3 +28,5 @@ This jupyter notebooks contains solution for various LeetCode problems (_https:/
 - [ ] Algorithms and Methodology (contains algo)
 - [ ] File Operations in Python
 - [ ] Database API in Python
+- [ ] NumPy
+- [ ] EDA on Sleep Data
