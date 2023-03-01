@@ -29,4 +29,10 @@ This jupyter notebooks contains solution for various LeetCode problems (_https:/
 - [ ] File Operations in Python
 - [ ] Database API in Python
 - [ ] NumPy
-- [ ] EDA on Sleep Data
+- [ ] Pandas -I
+- [ ] Pandas - II
+- [ ] Data Visualization with Matplotlib
+- [ ] EDA on Sleep
+- [ ] EDA on Weather
+- [ ] Cryptocurrency - EDA & Visualization Fresco
+- [ ] Facebook - EDA Fresco
